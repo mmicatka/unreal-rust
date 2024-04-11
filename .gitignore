@@ -15,3 +15,4 @@ rusttemp
 *.exp
 *.dll
 *.code-workspace
+RustPlugin/Binaries
