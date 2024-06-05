@@ -1,4 +1,4 @@
 echo "Symlinking RustPlugin into RustExample"
-mkdir -p example/RustExample/Plugins
-ln -s ../../../RustPlugin example/RustExample/Plugins/RustPlugin
-mkdir -p example/RustExample/Binaries
+mkdir -p unreal-project/Plugins
+ln -s ../../../RustPlugin unreal-project/Plugins/RustPlugin
+mkdir -p unreal-project/Binaries

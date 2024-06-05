@@ -2,6 +2,7 @@
 Cargo.lock
 .vs
 .vscode
+.idea
 Content
 DerivedDataCache
 Intermediate
@@ -16,3 +17,4 @@ rusttemp
 *.dll
 *.code-workspace
 RustPlugin/Binaries
+unreal-project/Binaries
